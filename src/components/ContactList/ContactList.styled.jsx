@@ -6,8 +6,7 @@ export const List = styled.ul`
   flex-direction: column;
   width: 400px;
   padding: 12px;
-  border-radius: 4px;
-  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
   border: 3px solid #1f1b1b;
   list-style: none;
 `;
